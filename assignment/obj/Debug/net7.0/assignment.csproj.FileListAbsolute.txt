@@ -1,0 +1,15 @@
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.csproj.AssemblyReference.cache
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.AssemblyInfoInputs.cache
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.AssemblyInfo.cs
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tadala\Desktop\munta\assignment\bin\Debug\net7.0\assignment.exe
+C:\Users\Tadala\Desktop\munta\assignment\bin\Debug\net7.0\assignment.deps.json
+C:\Users\Tadala\Desktop\munta\assignment\bin\Debug\net7.0\assignment.runtimeconfig.json
+C:\Users\Tadala\Desktop\munta\assignment\bin\Debug\net7.0\assignment.dll
+C:\Users\Tadala\Desktop\munta\assignment\bin\Debug\net7.0\assignment.pdb
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.dll
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\refint\assignment.dll
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.pdb
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\assignment.genruntimeconfig.cache
+C:\Users\Tadala\Desktop\munta\assignment\obj\Debug\net7.0\ref\assignment.dll
